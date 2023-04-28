@@ -1,0 +1,7 @@
+venv*
+summary*
+item.csv
+personalization.csv
+*__pycache__*
+tmp*
+PortableGit/*
